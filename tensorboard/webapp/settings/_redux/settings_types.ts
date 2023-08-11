@@ -41,7 +41,7 @@ export const initialState: SettingsState = {
 
   settings: {
     reloadPeriodInMs: 30000,
-    reloadEnabled: false,
+    reloadEnabled: true,
     pageSize: 12,
     colorPalette: DEFAULT_PALETTE,
   },
